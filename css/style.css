@@ -1,0 +1,31 @@
+  /* 
+    */
+    h1 {
+        text-align: center;
+        color:black;
+    }
+    h2 {
+        text-align: center;
+        color: rebeccapurple;
+    }
+    h3{
+        text-align: center;
+        color: blue;
+    }
+    div {
+            color: purple;
+            border: 1px solid #333;
+            padding: 20px;
+            width: 300px;
+            display: inline-block;
+        }
+        div.container {
+            width: 100%; 
+            border: 0;
+            text-align: center;
+        }
+        img {
+            width: 300px;
+            height: 200px;
+        }
+    
