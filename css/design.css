@@ -26,5 +26,19 @@
         width: 300px;
         height: 200px;
         }
+
+        #btn01 {
+            background-color: green;
+            color : white;
+            border: 0;
+            padding: 10px 20px;
+        }
+         #btn01 {
+                background-color: orange;
+                color : white;
+                border: 0;
+                padding: 10px 20px;    
+    
+     }
     
         
