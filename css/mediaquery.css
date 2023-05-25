@@ -24,12 +24,13 @@
         background-color: gray;
     }
     .office {
-        color: rgb(36, 4, 122);
+        color: rgb(210, 109, 216);
     }
     .address{
+        color: rgba(126, 5, 186, 0.822);
 
     }
-    .manager {
-
+    .manager{
+        color: blueviolet;
     }
  }

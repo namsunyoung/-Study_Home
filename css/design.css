@@ -14,7 +14,7 @@
             color: purple;
             border: 1px solid #333;
             padding: 20px;
-            width: 90%;
+            width: 300px;
             display: inline-block;
         }
     div.container {
@@ -33,12 +33,38 @@
             border: 0;
             padding: 10px 20px;
         }
-         #btn01 {
-                background-color: orange;
+         #btn02 {
+                background-color: green;
                 color : white;
                 border: 0;
                 padding: 10px 20px;    
+        }
+         #btn03 {
+                    background-color: green;
+                    color : white;
+                    border: 0;
+                    padding: 10px 20px;    
+        }
+         #btn04 {
+            background-color: rgb(23, 23, 255);
+            color : white;
+            border: 0;
+            padding: 10px 20px;    
+        } 
+         #btn05 {
+            background-color: rgb(33, 33, 254);
+            color : white;
+            border: 0;
+            padding: 10px 20px;    
+        }
+        #btn06 {
+            background-color: rgb(37, 37, 254);
+            color : white;
+            border: 0;
+            padding: 10px 20px;    
+        }
+        
     
-     }
+     
     
         
