@@ -22,3 +22,13 @@ document.querySelector("#btn06").addEventListener("click",() => {
     alert("안목해변 상세페이지로 이동합니다!");
     location.href="http://anmokbeach.co.kr/"
 });
+
+
+//모달 창 닫기 버튼
+let closeBTN = document.querySelector("#close_modal");
+let modalBOX = document.querySelector(".modal")
+//console.log(closeBTN);
+closeBTN.addEventListener("click",()=>{
+    //console.log(modalBOX.style);
+    modalBOX.style.display = "none";
+});
